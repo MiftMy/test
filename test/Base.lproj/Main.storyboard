@@ -29,11 +29,11 @@
                                 </constraints>
                             </view>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="g0y-KQ-QP8">
-                                <rect key="frame" x="31.666666666666671" y="728" width="46" height="30"/>
+                                <rect key="frame" x="21.666666666666671" y="728" width="56" height="30"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="30" id="UKM-Ui-6LZ"/>
                                 </constraints>
-                                <state key="normal" title="Button"/>
+                                <state key="normal" title="旋转90°"/>
                                 <connections>
                                     <action selector="fun1:" destination="1rp-WB-xPK" eventType="touchUpInside" id="cvX-hO-XDi"/>
                                 </connections>
@@ -55,7 +55,7 @@
                                     <constraint firstAttribute="width" constant="60" id="NR8-rU-PCg"/>
                                     <constraint firstAttribute="height" constant="30" id="xmx-lL-WsY"/>
                                 </constraints>
-                                <state key="normal" title="Button"/>
+                                <state key="normal" title="比例"/>
                                 <connections>
                                     <action selector="fun4:" destination="1rp-WB-xPK" eventType="touchUpInside" id="LdQ-F3-seK"/>
                                 </connections>
